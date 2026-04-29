@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <!-- PUT YOUR NEW IMAGE LINK BELOW -->
-  <img src="<img width="1034" height="980" alt="image" src="https://github.com/user-attachments/assets/c8c2579d-e4df-483e-91f8-9df7377c702f" />
-" alt="Programmer typing" width="350" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Programmer typing" width="350" />
 </div>
 
 <p align="center">
@@ -58,4 +56,4 @@
 - 🤖 **[Ecommerce Chatbot](https://github.com/deepak-5656/Ecommercechatbot)** - An E-commerce chatbot built with **TypeScript**.
 
 ### 🧠 Machine Learning (Beginner)
-- 📊 **[Your ML Project Name Here](https://github.com/deepak-5656/)** - An introductory machine learning project exploring data analysis and model
+- 📊 **[Your ML Project Name Here](https://github.com/deepak-5656/)** - An introductory machine learning project exploring data analysis and model training using **Python, Pandas, and Scikit-Learn** in a Jupyter Notebook. *(Don't forget to update this link!)*
